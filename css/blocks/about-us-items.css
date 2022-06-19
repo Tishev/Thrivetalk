@@ -1,0 +1,26 @@
+.about-us-items {
+    width: 1440px;
+    
+}
+.boxes-items {
+    display: flex;
+    justify-content: space-between;
+}
+.box-item {
+    width: 360px;
+    height: 360px;
+}
+.b-i01 {
+    background-color: #FFE2DE;
+}
+.box-item-text {
+}
+.b-i02 {
+    background-color: #C4E769;
+}
+.b-i03 {
+    background-color: #62D0DF;
+}
+.b-i04 {
+    background-color: #0052C1;
+}

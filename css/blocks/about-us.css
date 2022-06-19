@@ -1,0 +1,37 @@
+.about-us {
+    position: relative;
+    height: 481px;
+}
+.container-about-us {
+    display: flex;
+    justify-content: center;
+}
+.about-us-title {
+    font-size: 16px;
+    line-height: 23px;
+    color: #22356F;
+    position: absolute;
+    top: 156px;
+    left: 106px;
+}
+
+.about-us-content {
+    display: flex;
+    flex-direction: column;
+    padding-top: 150px;
+}
+.about-us-text {
+    font-size: 24px;
+    line-height: 34px;
+    color: #22356F;
+    width: 592px;
+    
+}
+.about-us-bottom {
+    font-size: 16px;
+    line-height: 19px;
+    color: rgba(34, 53, 111, 0.5);
+    padding-top: 76px;
+    display: flex;
+    justify-content: center;
+}

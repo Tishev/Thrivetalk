@@ -1,0 +1,34 @@
+.content {
+    background-color: #62D0DF;
+    position: relative;
+}
+
+.content-content {
+    display: flex;
+    justify-content: space-between;
+    height: 607px;
+}
+.content-content-text {
+    width: 555px;
+}
+.content-heading {
+    font-size: 36px;
+    line-height: 27px;
+    color: #FFFFFF;
+    padding-top: 151px;
+    padding-bottom: 75px;
+}
+.content-text {
+    font-size: 24px;
+    line-height: 35px;
+
+    color: #FFFFFF;
+}
+.content-content-img {
+    position: absolute;
+    top: 0;
+    left: 1000px;
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+}
